@@ -7,7 +7,7 @@ body {
 }
 
 p {
-    color: #8f8f8f;
+    color: #000;
 }
 
 h1 {
@@ -16,6 +16,7 @@ h1 {
     font-size: 1.5rem;
     line-height: 1.5;
     padding-top: 30px;
+    padding-bottom: 10px;
 }
 
 h2 {
@@ -23,6 +24,13 @@ h2 {
     /* font-weight: bold; */
     font-size: 1rem;
     line-height: 1.5;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+    line-height: 2.5;
 }
 
 a {
@@ -38,19 +46,7 @@ a {
 }
 
 .cake {
-    margin: 5px;
-}
-
-.header_img {
-    margin-top: 10px;
-    padding-left: 30px;
-}
-
-.header_text {
-    width: 923px;
-    font-size: 1rem;
-    line-height: 1.5;
-    text-align: center;
+    color: #8f8f8f;
 }
 
 .btn {
@@ -66,7 +62,7 @@ a {
 }
 
 .pricing-column {
-    padding: 3% 2%;
+    padding: 1% 1%;
 }
 
 #footer {
@@ -123,3 +119,4 @@ a {
     background-color: #fff;
     color: #890f0d;
 }    
+
