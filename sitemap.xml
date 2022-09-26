@@ -3,35 +3,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://www.banketvsem.ru</loc>
-    <lastmod>2022-05-19</lastmod>
+    <lastmod>2022-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.banketvsem.ru/images/FAQ_aprel_2022.pdf</loc>
-    <lastmod>2022-05-19</lastmod>
-  </url>
-  <url>
-    <loc>https://www.banketvsem.ru/cake.html</loc>
-    <lastmod>2022-05-19</lastmod>
-  </url>
-  <url>
-    <loc>https://www.banketvsem.ru/halls.html</loc>
-    <lastmod>2022-05-19</lastmod>
-  </url>
-  <url>
-    <loc>https://www.banketvsem.ru/bday.html</loc>
-    <lastmod>2022-05-19</lastmod>
-  </url>
-  <url>
-    <loc>https://www.banketvsem.ru/wedding.html</loc>
-    <lastmod>2022-05-19</lastmod>
+    <loc>https://www.banketvsem.ru/images/Shelk%20menu%20april%202022.pdf</loc>
+    <lastmod>2022-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.banketvsem.ru/faq.html</loc>
-    <lastmod>2022-05-19</lastmod>
+    <lastmod>2022-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.banketvsem.ru/cake.html</loc>
+    <lastmod>2022-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.banketvsem.ru/halls.html</loc>
+    <lastmod>2022-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.banketvsem.ru/bday.html</loc>
+    <lastmod>2022-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.banketvsem.ru/wedding.html</loc>
+    <lastmod>2022-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.banketvsem.ru/newyear.html</loc>
+    <lastmod>2022-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.banketvsem.ru/index.html</loc>
-    <lastmod>2022-05-19</lastmod>
+    <lastmod>2022-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.banketvsem.ru/vtourS/tour.html</loc>
+    <lastmod>2022-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.banketvsem.ru/vtourB/tour.html</loc>
+    <lastmod>2022-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.banketvsem.ru/anketa.html</loc>
+    <lastmod>2022-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
   </url>
 </urlset>
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
